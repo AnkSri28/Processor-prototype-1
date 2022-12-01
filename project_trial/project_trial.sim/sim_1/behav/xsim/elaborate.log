@@ -1,0 +1,17 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2018.2/bin/unwrapped/lnx64.o/xelab -wto 8b23713a8cd44a68a2e98f3f0b671c2d --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot simple_tb_behav xil_defaultlib.simple_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/in_ankith/vivado_test/driver_axi.sv" Line 1. Module driver doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/in_ankith/vivado_test/test_axi.sv" Line 1. Module test_adder doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.driver
+Compiling module xil_defaultlib.test_adder
+Compiling module xil_defaultlib.top_file
+Compiling module xil_defaultlib.simple_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot simple_tb_behav

@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../../vivado_test/driver_axi.sv" \
+"../../../../../../vivado_test/test_axi.sv" \
+"../../../../project_trial.srcs/sources_1/new/top_file.sv" \
+"../../../../project_trial.srcs/sim_1/new/simple_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

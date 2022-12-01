@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:07:38
+/home/in_ankith/project/project_trial/project_trial.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+/home/in_ankith/project/project_trial/project_trial.srcs/sim_1/new/simple_tb.sv,1669351812,systemVerilog,,,,simple_tb,,,,,,,,
+/home/in_ankith/project/project_trial/project_trial.srcs/sources_1/new/top_file.sv,1669379842,systemVerilog,,/home/in_ankith/project/project_trial/project_trial.srcs/sim_1/new/simple_tb.sv,,top_file,,,,,,,,
+/home/in_ankith/vivado_test/driver_axi.sv,1669397117,systemVerilog,,/home/in_ankith/vivado_test/test_axi.sv,,driver,,,,,,,,
+/home/in_ankith/vivado_test/test_axi.sv,1669397524,systemVerilog,,/home/in_ankith/project/project_trial/project_trial.srcs/sources_1/new/top_file.sv,,test_adder,,,,,,,,
